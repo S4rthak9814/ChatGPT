@@ -40,9 +40,9 @@ body {
 }
 
 /* hides scrollbar */
-#chat_container::-webkit-scrollbar {
+/* #chat_container::-webkit-scrollbar {
   display: none;
-}
+} */
 
 .wrapper {
   width: 100%;
